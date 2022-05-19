@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import streamlit as st
-import tensorflow as tf
+import tensorflow 
 import tensorflow_hub as hub
 
 from tensorflow import keras
